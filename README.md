@@ -51,3 +51,4 @@ int main() {
     free(sonucc);//tahsis edilen bellegi bosaltir.
     return 0;
 }
+![ekran çıktısı1](https://user-images.githubusercontent.com/127992796/230643302-9310e50b-045b-4bc1-bfe9-e1bbbd4ebd90.jpeg)
